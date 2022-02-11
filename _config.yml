@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maryam Mohammadi"
+title                    : "Maryam "
 title_separator          : "-"
 name                     : &Maryam Mohammadi"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "marm_mhm"
+  username               : &marm_mhm
 facebook:
   username               :
   app_id                 :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "marmhm"
+  github           : &marmhm"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "maryam-mohammadi-53181b16a/"
+  linkedin         : "maryam-mohammadi-53181b16a"
   orcid            : "https://orcid.org/0000-0003-4850-8068"
   pinterest        :
   soundcloud       :
