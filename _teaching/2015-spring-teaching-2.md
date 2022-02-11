@@ -1,11 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Building and Mining Knowledge Graphs"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Master course"
+venue: "Teaching Assistant, Maastricht University, Department of Data Science and Knowledge Engineering"
+date: 2022
+
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
