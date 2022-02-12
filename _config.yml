@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Maryam "
 title_separator          : "-"
-name                     : &Maryam Mohammadi"
+name                     : &name "Maryam Mohammadi"
 description              : &description "personal description"
 url                      : https://marmhm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &marm_mhm
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -83,12 +83,12 @@ author:
   name             : "Mryam Mohammadi"
   avatar           : "profile.png"
   bio              : "PhD candidate"
-  location         : "Netherlands"
+  location         : "The Netherlands"
   employer         : "Maastricht University"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "m.mohammadi@maastrichtuniversity.nl"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : &marmhm"
+  github           : "marmhm"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "maryam-mohammadi-53181b16a"
+  linkedin         : "maryam-mohammadi-53181b16a/"
   orcid            : "https://orcid.org/0000-0003-4850-8068"
   pinterest        :
   soundcloud       :
