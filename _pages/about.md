@@ -16,6 +16,13 @@ Biography
 I am a Ph.D. Candidate at Maastricht University in the Institute of Data Science since February 2021. I am working on a project with title “automatic construction of knowledge graph metadata”. My supervisors are Michel Dumontier and Christopher Brewster. I completed her MSc degree in Computer Science in Shahid Beheshti University. For my Master's thesis, I worked on drug-drug interaction prediction problem. My research interests include Knowledge Graph, Bioinformatics, Data Mining, Machin Learning and Deep Learning.
 
 
+### **ESWC 2022**
+
+I am hapy to share that I presented my paper accepted on PhD symposuim of ESWC 2022 conference. 
+
+here you can find the paper: https://2022.eswc-conferences.org/wp-content/uploads/2022/05/phd_Mohammadi_paper_187.pdf
+
+
 
 ### **Ethics in the research**
 
